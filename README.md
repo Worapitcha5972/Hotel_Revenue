@@ -4,4 +4,4 @@ This repository houses a project dedicated to analyzing hotel revenue utilizing 
  2. Determining the need to increase parking lot size.
  3. Identifying trends within the data.
 
-![dashboard](https://github.com/Worapitcha5972/Hotel_Revenue/blob/main/Hotel_revenue_dashboard.jpg)
+
