@@ -4,4 +4,4 @@ This repository houses a project dedicated to analyzing hotel revenue utilizing 
  2. Determining the need to increase parking lot size.
  3. Identifying trends within the data.
 
-![dashboard](https://scontent.fbkk22-8.fna.fbcdn.net/v/t1.15752-9/350235502_1328658814527712_2232254486779345060_n.png?stp=dst-png_s2048x2048&_nc_cat=108&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeFjlIaxchL9GcdsinHfT7ROJSXJ8Un8c2glJcnxSfxzaKxrBGhmUSt3x1cUkkXBtEU1GZguDMf0amnHX9YBT_4P&_nc_ohc=7Dm8CC9wQJgAX_NTpKe&_nc_ht=scontent.fbkk22-8.fna&oh=03_AdRObUNTutUdCmUHQJ63aHh3g2quhMMDcxE1iYvk-qOU8g&oe=64ABA9D7)
+![dash](https://scontent.fbkk8-2.fna.fbcdn.net/v/t1.15752-9/353903117_583537310568850_8235012295808762122_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeFT9N9lO2WCyGOs1Jqd-5EF5_YNKOvuQE3n9g0o6-5ATQD32dkXAfnLPP64UaZgLdy0IXEaoXP_M7TBNR5QHRLL&_nc_ohc=1nsqVYAnPmQAX8wgXgR&_nc_ht=scontent.fbkk8-2.fna&oh=03_AdSLc2pfFZ25Ka76mmmwHZc3n5chqex4mesatrE30Qjy2Q&oe=64B13E2E)
